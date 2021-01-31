@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import Logo from "../../assets/icons/logow.webp";
+import Logo from "../../assets/icons/logow.png";
 import "./my-navbar.styles.css";
 
 const MyNavbar = () => {
@@ -26,7 +26,7 @@ const MyNavbar = () => {
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#skills">Skills</Nav.Link>
               <Nav.Link href="#experience">Experience</Nav.Link>
-              <Nav.Link href="#projects">Projects</Nav.Link>
+              {/* <Nav.Link href="#projects">Projects</Nav.Link> */}
               <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>

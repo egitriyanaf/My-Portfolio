@@ -1,5 +1,5 @@
 .logo {
-  width: 25%;
+  width: 100%;
 }
 
 .nav-theme {
@@ -16,6 +16,7 @@
   from {
     transform: translateY(-5rem);
   }
+
   to {
     transform: translateY(0rem);
   }

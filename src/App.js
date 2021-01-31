@@ -59,12 +59,12 @@ const App = () => {
           </Fade>
         </Container>
       </div>
-      <Container className="container-box rounded">
+      {/* <Container className="container-box rounded">
         <Slide bottom duration={500}>
           <hr />
           <TimeLine />
         </Slide>
-      </Container>
+      </Container> */}
       <Container className="container-box rounded">
         <Fade duration={500}>
           <hr />
