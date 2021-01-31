@@ -1,7 +1,7 @@
 {
   "name": "Portfolio",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://egitriyanaf.github.io/My-Portfolio/",
   "dependencies": {
     "@merc/react-timeline": "^0.1.42",
